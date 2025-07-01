@@ -230,6 +230,9 @@ const ProductDetail = () => {
   const product = products[id]
 
   useEffect(() => {
+    // Scroll to top when component mounts or product changes
+    window.scrollTo({ top: 0, behavior: 'smooth' })
+    
     if (!product) return
     // Reset state when product changes
     setSelectedImageIndex(0)
