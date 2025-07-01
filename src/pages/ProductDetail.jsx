@@ -117,6 +117,113 @@ const ProductDetail = () => {
         { name: "6 Months", description: "$533 x 6 payments" },
         { name: "12 Months", description: "$267 x 12 payments" }
       ]
+    },
+    4: {
+      id: 4,
+      name: "Gold Pearl Stud Earrings",
+      category: "EARRINGS",
+      price: 950,
+      originalPrice: 1100,
+      description: "Classic gold pearl stud earrings with textured gold surrounds. Timeless elegance perfect for everyday luxury or special occasions.",
+      longDescription: "These sophisticated pearl stud earrings feature lustrous cultured pearls nestled within intricately textured gold settings. The combination of smooth pearl surfaces and detailed metalwork creates a captivating contrast that catches light from every angle. Each pearl is hand-selected for its exceptional luster and perfectly round shape.",
+      designStory: "Inspired by the timeless elegance of vintage jewelry, these earrings pay homage to the classic pearl stud while adding contemporary textural elements. The surrounding gold work draws inspiration from Art Deco sunburst patterns, creating a modern heirloom piece.",
+      stylingTips: "Perfect for both day and evening wear. The neutral palette complements any outfit, from casual to formal. Ideal for layering with other earrings or wearing alone for understated elegance. The textured gold adds visual interest without overwhelming delicate features.",
+      careInstructions: "Clean pearls gently with a soft, damp cloth. Avoid harsh chemicals, perfumes, and hairspray. Store separately in a soft pouch. The gold setting can be cleaned with mild soap and water.",
+      images: [
+        "/images/Gold%20Pearl%20Stud%20Earrings%20_%20Simple%20Gold%20Earrings%20For%20Women.jpg",
+        "/images/An_elegant_woman_wearing_beautiful_gold_pearl_halo-1751213134657%20copy.png",
+        "/images/Gold%20Pearl%20Stud%20Earrings%20_%20Simple%20Gold%20Earrings%20For%20Women%20copy.jpg"
+      ],
+      specifications: {
+        metalType: "14K Yellow Gold",
+        metalPurity: "58.3% Gold Content",
+        pearlType: "Cultured Freshwater Pearls",
+        pearlSize: "8mm Diameter",
+        pearlGrade: "AAA Quality",
+        setting: "Textured Halo Setting",
+        backType: "Butterfly Clutch",
+        weight: "3.2 grams (pair)",
+        dimensions: "12mm Overall Diameter"
+      },
+      sizes: ["One Size"],
+      inStock: true,
+      paymentPlans: [
+        { name: "Full Payment", description: "Pay in full today" },
+        { name: "3 Months", description: "$317 x 3 payments" },
+        { name: "6 Months", description: "$158 x 6 payments" }
+      ]
+    },
+    5: {
+      id: 5,
+      name: "Diamond Geometric Necklace",
+      category: "NECKLACES",
+      price: 2800,
+      originalPrice: 3200,
+      description: "Stunning geometric diamond necklace featuring mixed-cut diamonds in a sophisticated gold setting. Perfect for special occasions and elegant evenings.",
+      longDescription: "This striking necklace showcases a modern interpretation of classic diamond jewelry. The geometric pendant features a carefully curated selection of diamond cuts - round brilliants, emerald cuts, and baguettes - arranged in a contemporary pattern that maximizes light reflection and creates stunning visual impact. The delicate chain perfectly balances the bold pendant design.",
+      designStory: "Drawing inspiration from Art Deco architecture and modern geometric art, this necklace represents the intersection of mathematical precision and natural beauty. Each diamond is positioned to create optimal light play while maintaining perfect symmetry in the overall design.",
+      stylingTips: "This statement piece is perfect for evening events, formal occasions, or when you want to elevate a simple outfit. Pairs beautifully with strapless dresses or open necklines. The geometric design complements both modern and classic styling.",
+      careInstructions: "Clean with a soft brush and mild soap solution. Avoid harsh chemicals and store in a jewelry box to prevent tangling. Professional cleaning recommended every 6 months to maintain diamond brilliance.",
+      images: [
+        "/images/Women's%20Jewelry%20_%20Fashion%20Jewelry%20for%20Women.jpg",
+        "/images/ChatGPT Image Jun 29, 2025, 09_49_30 PM.png",
+        "/images/Women's%20Jewelry%20_%20Fashion%20Jewelry%20for%20Women%20copy.jpg"
+      ],
+      specifications: {
+        metalType: "18K White Gold",
+        metalPurity: "75% Gold Content",
+        diamonds: "2.1ct Total Weight",
+        clarity: "VS1-VS2 Average",
+        cuts: "Mixed (Round, Emerald, Baguette)",
+        chainLength: "18 inches",
+        pendantSize: "25mm x 20mm",
+        chainWidth: "1.2mm",
+        weight: "8.5 grams",
+        clasp: "Spring Ring Clasp"
+      },
+      sizes: ["16 inches", "18 inches", "20 inches"],
+      inStock: true,
+      paymentPlans: [
+        { name: "Full Payment", description: "Pay in full today" },
+        { name: "3 Months", description: "$933 x 3 payments" },
+        { name: "6 Months", description: "$467 x 6 payments" },
+        { name: "12 Months", description: "$233 x 12 payments" }
+      ]
+    },
+    6: {
+      id: 6,
+      name: "Rhinestone Leaf Drop Earrings",
+      category: "EARRINGS",
+      price: 1650,
+      originalPrice: 1900,
+      description: "Exquisite leaf-inspired drop earrings with intricate rhinestone detailing. These elegant pieces capture nature's beauty in luxurious gold.",
+      longDescription: "These enchanting drop earrings celebrate the organic beauty of nature through meticulous craftsmanship. Each leaf is hand-detailed with precisely placed rhinestones that follow the natural veining patterns found in real leaves. The graceful drop design creates elegant movement while the intricate detailing catches and reflects light with every gesture.",
+      designStory: "Inspired by the delicate beauty of autumn leaves, these earrings represent the perfect harmony between nature and luxury. Our artisans studied real leaf structures to create the most authentic and beautiful interpretation, with each rhinestone placement carefully considered to enhance the natural flow.",
+      stylingTips: "Perfect for romantic dinners, garden parties, or any occasion where you want to add a touch of natural elegance. The drop design elongates the neck beautifully. Pairs wonderfully with both earth tones and jewel colors.",
+      careInstructions: "Clean gently with a soft cloth. Avoid water and harsh chemicals which may affect the rhinestone settings. Store in individual pouches to prevent tangling and protect the delicate details.",
+      images: [
+        "/images/Rhinestone%20Leaf%20Drop%20Earrings.jpg",
+        "/images/ChatGPT Image Jun 29, 2025, 09_06_18 PM.png",
+        "/images/Rhinestone%20Leaf%20Drop%20Earrings%20copy.jpg"
+      ],
+      specifications: {
+        metalType: "Gold-Plated Brass",
+        metalPurity: "18K Gold Plating",
+        stones: "Austrian Crystal Rhinestones",
+        stoneCount: "42 Rhinestones per earring",
+        dropLength: "45mm",
+        leafWidth: "18mm",
+        weight: "4.8 grams (pair)",
+        backType: "French Hook",
+        finish: "High Polish Gold"
+      },
+      sizes: ["One Size"],
+      inStock: true,
+      paymentPlans: [
+        { name: "Full Payment", description: "Pay in full today" },
+        { name: "3 Months", description: "$550 x 3 payments" },
+        { name: "6 Months", description: "$275 x 6 payments" }
+      ]
     }
   }
 
@@ -154,7 +261,7 @@ const ProductDetail = () => {
   }
 
   const handleAddToCart = () => {
-    if (product.sizes && !selectedSize) {
+    if (product.sizes && product.sizes.length > 1 && !selectedSize) {
       alert('Please select a size before adding to cart.')
       return
     }
@@ -266,7 +373,7 @@ const ProductDetail = () => {
             </div>
 
             {/* Size Selection */}
-            {product.sizes && (
+            {product.sizes && product.sizes.length > 1 && (
               <div>
                 <h3 className="text-lg font-medium text-neutral-800 mb-4 tracking-wide">Size</h3>
                 <div className="grid grid-cols-5 gap-3">
