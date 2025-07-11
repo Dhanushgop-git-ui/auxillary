@@ -14,15 +14,6 @@ const FeaturedCollection = () => {
     },
     {
       id: 2,
-      name: "Twisted Diamond Bracelet",
-      category: "BRACELETS",
-      price: 3200,
-      image: "/images/download%20(5).jpg",
-      description: "Elegant twisted bracelet featuring alternating gold and diamond sections. A sophisticated piece that adds luxury to any ensemble.",
-      featured: true
-    },
-    {
-      id: 3,
       name: "Gold Pearl Stud Earrings",
       category: "EARRINGS",
       price: 950,
@@ -31,7 +22,7 @@ const FeaturedCollection = () => {
       featured: true
     },
     {
-      id: 4,
+      id: 3,
       name: "Diamond Geometric Necklace",
       category: "NECKLACES",
       price: 2800,
@@ -40,7 +31,7 @@ const FeaturedCollection = () => {
       featured: true
     },
     {
-      id: 6,
+      id: 4,
       name: "Rhinestone Leaf Drop Earrings",
       category: "EARRINGS",
       price: 1650,

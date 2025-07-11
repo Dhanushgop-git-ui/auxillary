@@ -50,43 +50,6 @@ const ProductDetail = () => {
     },
     2: {
       id: 2,
-      name: "Twisted Diamond Bracelet",
-      category: "BRACELETS",
-      price: 3200,
-      originalPrice: 3600,
-      description: "Elegant twisted bracelet featuring alternating gold and diamond sections. A sophisticated piece that adds luxury to any ensemble.",
-      longDescription: "This exquisite bracelet showcases the perfect marriage of classic design and contemporary craftsmanship. The twisted rope pattern creates dynamic movement and light play, while strategically placed diamonds add brilliant sparkle at every turn. Each diamond section is meticulously set to ensure maximum security and brilliance.",
-      designStory: "The twisted rope motif has been a symbol of strength and unity throughout history. Our interpretation elevates this classic design with precision-cut diamonds that follow the natural flow of the twist, creating a piece that's both timeless and thoroughly modern.",
-      stylingTips: "Perfect as a standalone statement piece or layered with simpler bracelets. The twisted design catches light beautifully, making it ideal for evening events. Complements both warm and cool-toned metals in your jewelry collection.",
-      careInstructions: "Clean with a soft brush and mild soap solution. Avoid harsh chemicals and abrasive materials. Professional cleaning recommended annually to maintain diamond brilliance.",
-      images: [
-        "/images/download%20(5).jpg",
-        "/images/ChatGPT Image Jun 30, 2025, 09_31_31 PM.png",
-        "/images/download%20(5)%20copy.jpg",
-        "/images/download%20(5)%20copy%20copy.jpg"
-      ],
-      specifications: {
-        metalType: "14K White Gold",
-        metalPurity: "58.3% Gold Content",
-        diamonds: "1.5ct Total Weight",
-        clarity: "VS2 Average",
-        cut: "Round Brilliant",
-        length: "7.5 inches",
-        width: "6mm",
-        weight: "12.8 grams",
-        clasp: "Hidden Safety Clasp"
-      },
-      sizes: ["7 inches", "7.5 inches", "8 inches"],
-      inStock: true,
-      paymentPlans: [
-        { name: "Full Payment", description: "Pay in full today" },
-        { name: "3 Months", description: "$1,067 x 3 payments" },
-        { name: "6 Months", description: "$533 x 6 payments" },
-        { name: "12 Months", description: "$267 x 12 payments" }
-      ]
-    },
-    4: {
-      id: 4,
       name: "Gold Pearl Stud Earrings",
       category: "EARRINGS",
       price: 950,

@@ -38,7 +38,7 @@ const Collections = () => {
       type: "Earrings"
     },
     {
-      id: 6,
+      id: 3,
       name: "Diamond Geometric Necklace",
       category: "NECKLACES",
       price: 2800,
