@@ -4,7 +4,7 @@ import ProductCard from '../components/ProductCard'
 const Collections = () => {
   const [activeFilter, setActiveFilter] = useState('All')
 
-  const filters = ['All', 'Earrings', 'Rings', 'Necklaces', 'Bracelets']
+  const filters = ['All', 'Earrings', 'Rings', 'Necklaces', 'Bracelets', 'Nose Rings']
 
   const products = [
     {
@@ -66,6 +66,16 @@ const Collections = () => {
       description: "Elegant set of 6 sleek gold-tone stacking bangles. Vintage-inspired minimalist design perfect for everyday luxury and versatile styling.",
       featured: true,
       type: "Bracelets"
+    },
+    {
+      id: 8,
+      name: "Diamond Bezel Nose Ring",
+      category: "NOSE RINGS",
+      price: 450,
+      image: "/images/ChatGPT Image Jul 11, 2025, 02_41_07 PM copy.png",
+      description: "Elegant 14K gold nose ring featuring a brilliant diamond in a secure bezel setting. Perfect for those seeking sophisticated body jewelry with timeless appeal.",
+      featured: true,
+      type: "Nose Rings"
     }
   ]
 

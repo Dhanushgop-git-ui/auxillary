@@ -189,6 +189,42 @@ const ProductDetail = () => {
         { name: "3 Months", description: "$400 x 3 payments" },
         { name: "6 Months", description: "$200 x 6 payments" }
       ]
+    },
+    8: {
+      id: 8,
+      name: "Diamond Bezel Nose Ring",
+      category: "NOSE RINGS",
+      price: 450,
+      originalPrice: 520,
+      description: "Elegant 14K gold nose ring featuring a brilliant diamond in a secure bezel setting. Perfect for those seeking sophisticated body jewelry with timeless appeal.",
+      longDescription: "This exquisite nose ring combines the luxury of fine jewelry with the contemporary appeal of body art. Crafted from premium 14K gold, it features a brilliant-cut diamond securely held in a smooth bezel setting. The sleek design ensures comfort while making a sophisticated statement. The open-ended style allows for easy insertion and a secure, comfortable fit.",
+      designStory: "Inspired by the growing trend of elevated body jewelry, this piece bridges the gap between traditional fine jewelry and modern self-expression. The bezel setting was chosen for its clean lines and secure hold, making it perfect for everyday wear while maintaining the luxury aesthetic our clients expect.",
+      stylingTips: "Perfect for those new to nose piercings or anyone seeking an elegant upgrade. The neutral gold tone complements all skin tones and pairs beautifully with other gold jewelry. Ideal for professional settings where subtle sophistication is key.",
+      careInstructions: "Clean gently with saline solution or mild soap and water. Avoid harsh chemicals and rotate gently during cleaning. Remove before swimming or sleeping. Professional piercing consultation recommended for proper sizing and insertion.",
+      images: [
+        "/images/ChatGPT Image Jul 11, 2025, 02_41_07 PM copy.png",
+        "/images/ChatGPT Image Jul 11, 2025, 02_41_07 PM copy.png",
+        "/images/ChatGPT Image Jul 11, 2025, 02_41_07 PM copy.png"
+      ],
+      specifications: {
+        metalType: "14K Yellow Gold",
+        metalPurity: "58.3% Gold Content",
+        gemstone: "0.03ct Diamond",
+        clarity: "VS2 Diamond Clarity",
+        cut: "Round Brilliant Cut",
+        setting: "Bezel Setting",
+        gauge: "20G (0.8mm)",
+        diameter: "8mm Internal",
+        gemSize: "2mm",
+        weight: "0.8 grams",
+        finish: "High Polish"
+      },
+      sizes: ["20G", "18G"],
+      inStock: true,
+      paymentPlans: [
+        { name: "Full Payment", description: "Pay in full today" },
+        { name: "3 Months", description: "$150 x 3 payments" }
+      ]
     }
   }
 
