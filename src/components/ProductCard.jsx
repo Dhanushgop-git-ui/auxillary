@@ -30,6 +30,9 @@ const ProductCard = ({ product }) => {
     if (productName === "Gold Stacking Bangle Set") {
       return "/images/ChatGPT Image Jun 30, 2025, 08_29_38 PM.png"
     }
+    if (productName === "Diamond Bezel Nose Ring") {
+      return "/images/ChatGPT Image Jul 11, 2025, 02_54_17 PM.png"
+    }
     return null
   }
 
