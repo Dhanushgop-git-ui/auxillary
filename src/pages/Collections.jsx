@@ -19,16 +19,6 @@ const Collections = () => {
     },
     {
       id: 2,
-      name: "Gold Stacking Bangle Set",
-      category: "BRACELETS",
-      price: 1850,
-      image: "/images/6-Piece%20Set%20Of%20Sleek%20Gold-Tone%20Stacking%20Bangle%20Bracelets%20For%20Women%20-%20Vintage%20&%20Minimalist%20Style,%20Iron%20Crafted,%20Perfect%20For%20Everyday%20Wear.jpg",
-      description: "6-piece set of sleek gold-tone stacking bangle bracelets. Vintage & minimalist style, iron crafted, perfect for everyday wear and layering.",
-      featured: true,
-      type: "Bracelets"
-    },
-    {
-      id: 3,
       name: "Twisted Diamond Bracelet",
       category: "BRACELETS",
       price: 3200,
@@ -38,7 +28,7 @@ const Collections = () => {
       type: "Bracelets"
     },
     {
-      id: 4,
+      id: 3,
       name: "Gold Pearl Stud Earrings",
       category: "EARRINGS",
       price: 950,
@@ -58,7 +48,7 @@ const Collections = () => {
       type: "Necklaces"
     },
     {
-      id: 6,
+      id: 5,
       name: "Rhinestone Leaf Drop Earrings",
       category: "EARRINGS",
       price: 1650,

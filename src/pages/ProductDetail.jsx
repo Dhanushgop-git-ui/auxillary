@@ -50,39 +50,6 @@ const ProductDetail = () => {
     },
     2: {
       id: 2,
-      name: "Gold Stacking Bangle Set",
-      category: "BRACELETS",
-      price: 1850,
-      originalPrice: 2100,
-      description: "6-piece set of sleek gold-tone stacking bangle bracelets. Vintage & minimalist style, iron crafted, perfect for everyday wear and layering.",
-      longDescription: "This sophisticated set of six bangles offers endless styling possibilities. Each piece is carefully crafted with varying textures and finishes, from high-polish to brushed gold tones. The collection includes different widths and subtle design variations that create visual interest when worn together or separately.",
-      designStory: "Drawing inspiration from ancient Egyptian jewelry traditions, these bangles represent the timeless appeal of stacked arm adornments. The varying textures tell a story of craftsmanship evolution, from traditional hammered techniques to modern precision finishing.",
-      stylingTips: "Wear all six for maximum impact, or mix and match with your existing jewelry. Perfect for both casual and formal occasions. Layer with watches or other bracelets for a curated, collected-over-time look.",
-      careInstructions: "Wipe clean with a soft cloth after each wear. Avoid contact with perfumes and lotions. Store in individual pouches to prevent scratching between pieces.",
-      images: [
-        "/images/6-Piece%20Set%20Of%20Sleek%20Gold-Tone%20Stacking%20Bangle%20Bracelets%20For%20Women%20-%20Vintage%20&%20Minimalist%20Style,%20Iron%20Crafted,%20Perfect%20For%20Everyday%20Wear.jpg",
-        "/images/ChatGPT Image Jun 30, 2025, 08_29_38 PM.png"
-      ],
-      specifications: {
-        metalType: "Gold-Plated Iron",
-        metalPurity: "18K Gold Plating",
-        setIncludes: "6 Individual Bangles",
-        diameter: "65mm Internal Diameter",
-        width: "2mm - 8mm (Varied)",
-        thickness: "1.5mm",
-        weight: "45 grams (Total Set)",
-        finish: "Mixed (Polish & Brushed)"
-      },
-      sizes: ["Small (60mm)", "Medium (65mm)", "Large (70mm)"],
-      inStock: true,
-      paymentPlans: [
-        { name: "Full Payment", description: "Pay in full today" },
-        { name: "3 Months", description: "$617 x 3 payments" },
-        { name: "6 Months", description: "$308 x 6 payments" }
-      ]
-    },
-    3: {
-      id: 3,
       name: "Twisted Diamond Bracelet",
       category: "BRACELETS",
       price: 3200,
@@ -190,8 +157,8 @@ const ProductDetail = () => {
         { name: "12 Months", description: "$233 x 12 payments" }
       ]
     },
-    6: {
-      id: 6,
+    5: {
+      id: 5,
       name: "Rhinestone Leaf Drop Earrings",
       category: "EARRINGS",
       price: 1650,

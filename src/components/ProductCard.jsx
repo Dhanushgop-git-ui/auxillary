@@ -24,9 +24,6 @@ const ProductCard = ({ product }) => {
     if (productName === "Rhinestone Leaf Drop Earrings") {
       return "/images/ChatGPT Image Jun 29, 2025, 09_06_18 PM.png"
     }
-    if (productName === "Gold Stacking Bangle Set") {
-      return "/images/ChatGPT Image Jun 30, 2025, 08_29_38 PM.png"
-    }
     if (productName === "Diamond Geometric Necklace") {
       return "/images/ChatGPT Image Jun 29, 2025, 09_49_30 PM.png"
     }
