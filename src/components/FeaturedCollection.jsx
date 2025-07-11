@@ -8,7 +8,7 @@ const FeaturedCollection = () => {
       name: "Green Sapphire Snowflake Ring",
       category: "RINGS",
       price: 2400,
-      image: "/images/files_5597870-1752226101609-files_5597870-1752225931287-ChatGPT Image Jul 11, 2025, 02_41_07 PM.png",
+      image: "/images/Diamond%20Cluster%20Ring%20_%20Green%20Sapphire%20Diamond%20Cluster%20Snowflake%20Ring%20_%20Diamond%20Snowflake%20Ring%20_%20Cluster%20Diamond%20Ring%20With%20Green%20Sapphire%20-%20Etsy%20copy.jpg",
       description: "Unique snowflake-inspired cluster ring featuring a stunning green sapphire center surrounded by brilliant diamonds in gold setting.",
       featured: true
     },
