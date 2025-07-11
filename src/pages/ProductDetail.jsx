@@ -22,7 +22,7 @@ const ProductDetail = () => {
       stylingTips: "Perfect for special occasions or as a statement piece for evening wear. Pairs beautifully with simple gold bands or can be worn alone for maximum impact. The unique design makes it an ideal conversation starter at formal events.",
       careInstructions: "Clean gently with warm soapy water and a soft brush. Avoid harsh chemicals and ultrasonic cleaners. Store separately to prevent scratching. Professional cleaning recommended every 6 months.",
       images: [
-        "/image.png",
+        "/images/Diamond%20Cluster%20Ring%20_%20Green%20Sapphire%20Diamond%20Cluster%20Snowflake%20Ring%20_%20Diamond%20Snowflake%20Ring%20_%20Cluster%20Diamond%20Ring%20With%20Green%20Sapphire%20-%20Etsy%20copy.jpg",
         "/images/A_elegant_womans_hand_wearing_a_delicate_gold_rin-1751213105123.png",
         "/images/Diamond%20Cluster%20Ring%20_%20Green%20Sapphire%20Diamond%20Cluster%20Snowflake%20Ring%20_%20Diamond%20Snowflake%20Ring%20_%20Cluster%20Diamond%20Ring%20With%20Green%20Sapphire%20-%20Etsy%20copy.jpg",
         "/images/Diamond%20Cluster%20Ring%20_%20Green%20Sapphire%20Diamond%20Cluster%20Snowflake%20Ring%20_%20Diamond%20Snowflake%20Ring%20_%20Cluster%20Diamond%20Ring%20With%20Green%20Sapphire%20-%20Etsy%20copy%20copy.jpg"
