@@ -203,7 +203,7 @@ const ProductDetail = () => {
       careInstructions: "Clean gently with saline solution or mild soap and water. Avoid harsh chemicals and rotate gently during cleaning. Remove before swimming or sleeping. Professional piercing consultation recommended for proper sizing and insertion.",
       images: [
         "/images/ChatGPT Image Jul 11, 2025, 02_41_07 PM copy.png",
-        "/images/ChatGPT Image Jul 11, 2025, 02_41_07 PM copy.png",
+        "/images/ChatGPT Image Jul 11, 2025, 02_54_17 PM.png",
         "/images/ChatGPT Image Jul 11, 2025, 02_41_07 PM copy.png"
       ],
       specifications: {
