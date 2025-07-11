@@ -40,12 +40,21 @@ const FeaturedCollection = () => {
       featured: true
     },
     {
-      id: 5,
+      id: 6,
       name: "Rhinestone Leaf Drop Earrings",
       category: "EARRINGS",
       price: 1650,
       image: "/images/Rhinestone%20Leaf%20Drop%20Earrings.jpg",
       description: "Exquisite leaf-inspired drop earrings with intricate rhinestone detailing. These elegant pieces capture nature's beauty in luxurious gold.",
+      featured: true
+    },
+    {
+      id: 5,
+      name: "Gold Stacking Bangle Set",
+      category: "BRACELETS",
+      price: 1200,
+      image: "/images/6-Piece Set Of Sleek Gold-Tone Stacking Bangle Bracelets For Women - Vintage & Minimalist Style, Iron Crafted, Perfect For Everyday Wear.jpg",
+      description: "Elegant set of 6 sleek gold-tone stacking bangles. Vintage-inspired minimalist design perfect for everyday luxury and versatile styling.",
       featured: true
     }
   ]

@@ -120,8 +120,8 @@ const ProductDetail = () => {
         { name: "6 Months", description: "$158 x 6 payments" }
       ]
     },
-    5: {
-      id: 5,
+    6: {
+      id: 6,
       name: "Diamond Geometric Necklace",
       category: "NECKLACES",
       price: 2800,
@@ -157,8 +157,8 @@ const ProductDetail = () => {
         { name: "12 Months", description: "$233 x 12 payments" }
       ]
     },
-    5: {
-      id: 5,
+    7: {
+      id: 7,
       name: "Rhinestone Leaf Drop Earrings",
       category: "EARRINGS",
       price: 1650,
@@ -190,6 +190,41 @@ const ProductDetail = () => {
         { name: "Full Payment", description: "Pay in full today" },
         { name: "3 Months", description: "$550 x 3 payments" },
         { name: "6 Months", description: "$275 x 6 payments" }
+      ]
+    },
+    5: {
+      id: 5,
+      name: "Gold Stacking Bangle Set",
+      category: "BRACELETS",
+      price: 1200,
+      originalPrice: 1400,
+      description: "Elegant set of 6 sleek gold-tone stacking bangles. Vintage-inspired minimalist design perfect for everyday luxury and versatile styling.",
+      longDescription: "This sophisticated set of six stacking bangles offers endless styling possibilities. Each bangle features a sleek, minimalist design with a warm gold-tone finish that complements any outfit. The varying widths and subtle textural differences create visual interest when worn together, while each piece is beautiful enough to wear individually. Crafted with attention to detail, these bangles represent the perfect balance of vintage charm and contemporary elegance.",
+      designStory: "Inspired by the timeless appeal of vintage jewelry collections, this stacking set celebrates the art of layering. The design draws from mid-century modern aesthetics, where clean lines and geometric forms created lasting beauty. Each bangle in the set has been carefully proportioned to work harmoniously with the others, creating a cohesive look that's both sophisticated and effortlessly chic.",
+      stylingTips: "Perfect for creating layered looks - wear all six together for maximum impact, or mix and match with other bracelets in your collection. The neutral gold tone pairs beautifully with both warm and cool colors. Ideal for both casual and formal occasions, from office meetings to evening events. Stack with watches or wear alone for a minimalist statement.",
+      careInstructions: "Clean with a soft, dry cloth to maintain the gold-tone finish. Avoid harsh chemicals, perfumes, and lotions. Store individually or in soft pouches to prevent scratching. Remove before swimming, showering, or exercising to preserve the finish.",
+      images: [
+        "/images/6-Piece Set Of Sleek Gold-Tone Stacking Bangle Bracelets For Women - Vintage & Minimalist Style, Iron Crafted, Perfect For Everyday Wear.jpg",
+        "/images/ChatGPT Image Jun 30, 2025, 08_29_38 PM.png",
+        "/images/6-Piece Set Of Sleek Gold-Tone Stacking Bangle Bracelets For Women - Vintage & Minimalist Style, Iron Crafted, Perfect For Everyday Wear copy.jpg"
+      ],
+      specifications: {
+        metalType: "Gold-Tone Alloy",
+        metalFinish: "High Polish Gold Plating",
+        setCount: "6 Bangles",
+        diameter: "2.5 inches (65mm)",
+        widthRange: "2mm - 8mm",
+        weight: "85 grams (complete set)",
+        style: "Stacking Bangles",
+        closure: "Slip-On Design",
+        finish: "Tarnish Resistant"
+      },
+      sizes: ["Small (2.3\")", "Medium (2.5\")", "Large (2.7\")"],
+      inStock: true,
+      paymentPlans: [
+        { name: "Full Payment", description: "Pay in full today" },
+        { name: "3 Months", description: "$400 x 3 payments" },
+        { name: "6 Months", description: "$200 x 6 payments" }
       ]
     }
   }

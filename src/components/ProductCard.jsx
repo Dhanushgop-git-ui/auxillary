@@ -30,6 +30,9 @@ const ProductCard = ({ product }) => {
     if (productName === "Twisted Diamond Bracelet") {
       return "/images/ChatGPT Image Jun 29, 2025, 09_48_31 PM.png"
     }
+    if (productName === "Gold Stacking Bangle Set") {
+      return "/images/ChatGPT Image Jun 30, 2025, 08_29_38 PM.png"
+    }
     return null
   }
 

@@ -38,7 +38,7 @@ const Collections = () => {
       type: "Earrings"
     },
     {
-      id: 5,
+      id: 6,
       name: "Diamond Geometric Necklace",
       category: "NECKLACES",
       price: 2800,
@@ -48,7 +48,7 @@ const Collections = () => {
       type: "Necklaces"
     },
     {
-      id: 5,
+      id: 7,
       name: "Rhinestone Leaf Drop Earrings",
       category: "EARRINGS",
       price: 1650,
@@ -56,6 +56,16 @@ const Collections = () => {
       description: "Exquisite leaf-inspired drop earrings with intricate rhinestone detailing. These elegant pieces capture nature's beauty in luxurious gold.",
       featured: false,
       type: "Earrings"
+    },
+    {
+      id: 5,
+      name: "Gold Stacking Bangle Set",
+      category: "BRACELETS",
+      price: 1200,
+      image: "/images/6-Piece Set Of Sleek Gold-Tone Stacking Bangle Bracelets For Women - Vintage & Minimalist Style, Iron Crafted, Perfect For Everyday Wear.jpg",
+      description: "Elegant set of 6 sleek gold-tone stacking bangles. Vintage-inspired minimalist design perfect for everyday luxury and versatile styling.",
+      featured: true,
+      type: "Bracelets"
     }
   ]
 
